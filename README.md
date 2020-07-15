@@ -9,3 +9,4 @@ Best tutorial online
 https://dortania.github.io/getting-started/
 
 Credit for all guys' hard work to hackintosh community :)
+现在就蓝牙无法关闭
